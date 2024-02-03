@@ -1,12 +1,14 @@
-`timescale 1ns/1ps
 
 module test_2 (
     input a,
     input b,
     input c,
-    input clk,
+    input clk, 
     output reg d
 );
+
+reg d1; 
+assign d = d1; 
 
 
 always @(posedge clk) begin
@@ -15,7 +17,7 @@ always @(posedge clk) begin
        // force d = 1'b1;
     end else begin
         // Your original logic
-        d = (a | b) & c;
+        d1 <= (a | b) & c;
         // If you want to force d to 1'b0 under certain conditions, you can use something like:
         // if (some_condition) force d = 1'b0;
     end
