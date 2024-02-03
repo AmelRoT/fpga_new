@@ -50,6 +50,27 @@ Z8 !s108 1706970690.000000
 !i113 1
 R5
 R6
+vtest_again
+Z9 !s110 1706973206
+!i10b 1
+!s100 m>Cgne1LS823_j5=g?O2D1
+IVCd6<:5[AhO1SOclacze@0
+R1
+R2
+w1706973199
+8C:/Users/Amel/Desktop/fpga/verilog_codes/test_again.v
+FC:/Users/Amel/Desktop/fpga/verilog_codes/test_again.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1706973206.000000
+!s107 C:/Users/Amel/Desktop/fpga/verilog_codes/test_again.v|
+!s90 -##implicit##push_minusfile_path##|C:/intelFPGA/17.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|-stats=none|C:/Users/Amel/Desktop/fpga/verilog_codes/test_again.v|
+!i113 1
+R5
+R6
 vtest_bench_3
 R7
 !i10b 1
@@ -68,6 +89,27 @@ r1
 R8
 !s107 C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_3.v|
 !s90 -##implicit##push_minusfile_path##|C:/intelFPGA/17.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|-stats=none|C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_3.v|
+!i113 1
+R5
+R6
+vtest_bench_again
+R9
+!i10b 1
+!s100 BP@B`]BZZBSQTCDRQXjXG1
+IoGUcjE<cLFSj6EHZLE1WN3
+R1
+R2
+w1706973200
+8C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_again.v
+FC:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_again.v
+L0 4
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_again.v|
+!s90 -##implicit##push_minusfile_path##|C:/intelFPGA/17.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|-stats=none|C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_again.v|
 !i113 1
 R5
 R6

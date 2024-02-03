@@ -1,8 +1,8 @@
-C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_3.v {1 {vlog -work work -stats=none C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_3.v
+C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_again.v {1 {vlog -work work -stats=none C:/Users/Amel/Desktop/fpga/verilog_codes/test_bench_again.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module test_bench_3
+-- Compiling module test_bench_again
 
 Top level modules:
-	test_bench_3
+	test_bench_again
 
 } {} {}}
